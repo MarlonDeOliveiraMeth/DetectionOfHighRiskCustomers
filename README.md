@@ -1,4 +1,4 @@
-# Detecção de clientes de alto risco
+# Regressão Logística e Random Forest na detecção de clientes de alto risco
 
 Projeto final da minha pós-graduação em Ciência de Dados e Machine Learning na PUC Campinas.
 
